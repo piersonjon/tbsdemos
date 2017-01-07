@@ -3,6 +3,10 @@
 // admin@kinix.net
 // http://kinix.net
 
+// you may wish to consult my terribly-handwritten version of some of the
+// concepts here in the github repo:
+// https://github.com/piersonjon/tbsdemos
+
 // a demonstration of an implementation of speed as a player stat in a
 // turn-based game. with this setup, we'll be able to show how this
 // setup can be used as a "charge bar," similar to that in games like
